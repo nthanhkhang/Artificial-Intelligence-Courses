@@ -16,7 +16,7 @@ Input Format - the number 8, which does not need to be read, but we will take an
 Output Format - all matrices that constitute the possible solutions will contain the numbers 0(for empty cell) and 1(for a cell where queen is placed). Hence, the output is a set of binary matrices.
 
 ### 3.	Demo:
-[8_queen_Backtracking](https://github.com/nthanhkhang/Artificial-Intelligence-Backtracking/blob/main/8_queen_Backtracking.ipynb)
+[Algothrims 8 Queens Problems](https://github.com/nthanhkhang/Artificial-Intelligence-Backtracking/blob/main/8_queen_Backtracking.ipynb)
 
 ## II.	Permutation Algothrims:
 
@@ -31,6 +31,6 @@ In the implementation of the state transfer, we can use either BFS or DFS on the
 We can generalize Permutation, Permutations refer to the permutation of n things taken kat a time without repetition, the math formula is A_{n}^{k} = n *(n-1)*(n-2)*…*k.
 
 ### 3.Demo:
-
+[Permutation Algothrims](https://github.com/nthanhkhang/Artificial-Intelligence-Backtracking/blob/main/Permutation%20_Backtracking.ipynb)
 
 -Sudoku
