@@ -16,7 +16,7 @@ Input Format - the number 8, which does not need to be read, but we will take an
 Output Format - all matrices that constitute the possible solutions will contain the numbers 0(for empty cell) and 1(for a cell where queen is placed). Hence, the output is a set of binary matrices.
 
 ### 3.	Demo:
-![alt text](https://github.com/nthanhkhang/Artificial-Intelligence-Backtracking/blob/main/8_queen_Backtracking.ipynb)
+[8_queen_Backtracking](https://github.com/nthanhkhang/Artificial-Intelligence-Backtracking/blob/main/8_queen_Backtracking.ipynb)
 -Permutation
 
 -Sudoku
