@@ -60,3 +60,9 @@ Approach: The naive approach is to generate all possible configurations of numbe
 
 ### 3.Demo:
 [Sudoku Game](https://github.com/nthanhkhang/Artificial-Intelligence-Backtracking/blob/main/Sudoku_Backtracking.ipynb)
+
+## III.Referrence
+
+•	https://www.geeksforgeeks.org/python-program-for-n-queen-problem-backtracking-3/
+•	https://medium.com/algorithms-and-leetcode/backtracking-e001561b9f28
+
