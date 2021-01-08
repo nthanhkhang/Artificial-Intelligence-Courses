@@ -17,6 +17,19 @@ Output Format - all matrices that constitute the possible solutions will contain
 
 ### 3.	Demo:
 [8_queen_Backtracking](https://github.com/nthanhkhang/Artificial-Intelligence-Backtracking/blob/main/8_queen_Backtracking.ipynb)
--Permutation
+
+## II.	Permutation Algothrims:
+
+### 1.What is Permutation Algothrims?
+
+	A permutation, also called an “arrangement number” or “order,” is a rearrangement of the elements of an ordered list S into a one-to-one correspondence with S itself. A string of length n has n! permutation.
+
+### 2.BackTracking Algothrims
+
+	In the implementation of the state transfer, we can use either BFS or DFS on the implicit vertices. DFS is preferred because theoretically, it took O(log n!) space used by the stack, while if use BFS, the number of vertices saved in the queue can be close to n!. With recursive DFS, we can start from node [], and traverse to [1,2], then [1,2,3]. Then we backtrack to [1,2], backtrack to [1], and go to [1, 3], to [1, 3, 2]. To clear the relation between backtracking and DFS, we can say backtracking is a complete search technique and DFS is an ideal way to implement it. 
+
+	We can generalize Permutation, Permutations refer to the permutation of n things taken kat a time without repetition, the math formula is A_{n}^{k} = n *(n-1)*(n-2)*…*k.
+### 3.Demo:
+
 
 -Sudoku
