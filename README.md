@@ -58,3 +58,5 @@ Approach: The naive approach is to generate all possible configurations of numbe
 
 4.	Demo
 
+### 3.Demo:
+[Sudoku Game](https://github.com/nthanhkhang/Artificial-Intelligence-Backtracking/blob/main/Sudoku_Backtracking.ipynb)
