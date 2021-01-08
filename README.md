@@ -64,5 +64,6 @@ Approach: The naive approach is to generate all possible configurations of numbe
 ## III.Referrence
 
 •	https://www.geeksforgeeks.org/python-program-for-n-queen-problem-backtracking-3/
+
 •	https://medium.com/algorithms-and-leetcode/backtracking-e001561b9f28
 
